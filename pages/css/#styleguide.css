@@ -1,0 +1,20 @@
+
+
+.onderdeeltjes {
+    width:100px;
+    height:20px;
+    margin:1px;
+    display:block;
+    background-color:#90B531;
+    font-size:8pt;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-align:center;
+    border-top: 2px solid #D8E5B7;
+    border-left: 2px solid #D8E5B7;
+    border-bottom: 2px solid #687D22;
+    border-right: 2px solid #687D22;
+} 
+
+a:hover.menubutton {
+    background-color:#D8E5B7;
+}
