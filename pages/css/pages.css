@@ -11,24 +11,6 @@ body {
     padding: 25px;
 }
 
-.one {
-    width:100px;
-    height:20px;
-    margin:1px;
-    display:block;
-    font-size:15pt;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
-    color: black; 
-    text-align:center;
-    border-top: 2px solid #D8E5B7;
-    border-left: 2px solid #D8E5B7;
-    border-bottom: 2px solid #687D22;
-    border-right: 2px solid #687D22;
-    border-color: pink
-} 
-a:hover.one {
-    background-color:#D8E5B7;
-}
 @font-face {
     font-family: allerta stencil;
     src: url(https://www.cssfontstack.com/Allerta-Stencil);
