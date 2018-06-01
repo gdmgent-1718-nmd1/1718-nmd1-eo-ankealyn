@@ -1,6 +1,6 @@
 
 
-.onderdeeltjes {
+.one {
     width:100px;
     height:20px;
     margin:1px;
@@ -17,4 +17,9 @@
 
 a:hover.menubutton {
     background-color:#D8E5B7;
+}
+
+
+h2 {
+color: #246400;
 }

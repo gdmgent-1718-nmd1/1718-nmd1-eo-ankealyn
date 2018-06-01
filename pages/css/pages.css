@@ -11,10 +11,6 @@ body {
     padding: 25px;
 }
 
-
-
-
-
 .one {
     width:100px;
     height:20px;
@@ -30,7 +26,6 @@ body {
     border-right: 2px solid #687D22;
     border-color: pink
 } 
-
 a:hover.one {
     background-color:#D8E5B7;
 }
@@ -38,6 +33,9 @@ a:hover.one {
     font-family: allerta stencil;
     src: url(https://www.cssfontstack.com/Allerta-Stencil);
 }
+
+
+
 
 
 /* Voeg jouw css hieraan toe */
