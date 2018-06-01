@@ -94,9 +94,12 @@ body{
     padding: 3px; 
 } 
 
+
+
 .text {
     float: left;
 }
+
 
 
 a:hover.menubutton {
@@ -108,10 +111,10 @@ color: #C676AE;
 h3 {
     font-family: 'Karla', sans-serif;
 }
-h4{
+p{
     font-family: 'Karla', sans-serif;
 }
-p{
+h4{
     font-family: 'Karla', sans-serif;
 }
 
