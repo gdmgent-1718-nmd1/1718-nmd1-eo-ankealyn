@@ -1,4 +1,7 @@
-
+body{
+    background-color: white; 
+    font-family: 'Karla', sans-serif;
+}
 
 .one {
     width:100px;
@@ -8,20 +11,107 @@
     background-color: white; 
     font: size 10pt;
     color: black; 
-    font-family: 'Karla', sans-serif;
+    font-family: 'Allerta Stencil', sans-serif;
     text-align:center;
     border-top: 2px solid #C676AE;
     border-left: 2px solid #C676AE;
     border-bottom: 2px solid #C676AE; 
     border-right: 2px solid #C676AE; 
+    text-decoration: none; 
+    float: left;
+    padding: 3px; 
 } 
+.two {
+    width:100px;
+    height:20px;
+    margin:1px;
+    display:block;
+    background-color: white; 
+    font: size 10pt;
+    color: black; 
+    font-family: 'Allerta Stencil', sans-serif;
+    text-align:center;
+    border-top: 2px solid #C676AE;
+    border-left: 2px solid #C676AE;
+    border-bottom: 2px solid #C676AE; 
+    border-right: 2px solid #C676AE; 
+    text-decoration: none; 
+    float: left;
+    padding: 3px; 
+}
+.three {
+    width:100px;
+    height:20px;
+    margin:1px;
+    display:block;
+    background-color: white; 
+    font: size 10pt;
+    color: black; 
+    font-family: 'Allerta Stencil', sans-serif;
+    text-align:center;
+    border-top: 2px solid #C676AE;
+    border-left: 2px solid #C676AE;
+    border-bottom: 2px solid #C676AE; 
+    border-right: 2px solid #C676AE; 
+    text-decoration: none; 
+    float: left;
+    padding: 3px; 
+} 
+.four {
+    width:100px;
+    height:20px;
+    margin:1px;
+    display:block;
+    background-color: white; 
+    font: size 10pt;
+    color: black; 
+    font-family: 'Allerta Stencil', sans-serif;
+    text-align:center;
+    border-top: 2px solid #C676AE;
+    border-left: 2px solid #C676AE;
+    border-bottom: 2px solid #C676AE; 
+    border-right: 2px solid #C676AE; 
+    text-decoration: none; 
+    float: left;
+    padding: 3px; 
+} 
+.five {
+    width:100px;
+    height:20px;
+    margin:1px;
+    display:block;
+    background-color: white; 
+    font: size 10pt;
+    color: black; 
+    font-family: 'Allerta Stencil', sans-serif;
+    text-align:center;
+    border-top: 2px solid #C676AE;
+    border-left: 2px solid #C676AE;
+    border-bottom: 2px solid #C676AE; 
+    border-right: 2px solid #C676AE; 
+    text-decoration: none; 
+    float: left;
+    padding: 3px; 
+} 
+
+.text {
+    float: left;
+}
+
 
 a:hover.menubutton {
     background-color:#5B7793; 
 }
-
-
 h2 {
 color: #C676AE;
+}
+h3 {
+    font-family: 'Karla', sans-serif;
+}
+h4{
+    font-family: 'Karla', sans-serif;
+}
+p{
+    font-family: 'Karla', sans-serif;
 }
 
